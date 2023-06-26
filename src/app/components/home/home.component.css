@@ -1,0 +1,14 @@
+
+
+.profile{
+    justify-content: center;
+    margin:8px;
+    height:fit-content;
+    width:auto;
+    border: 1px solid rgb(225, 202, 247);
+}
+
+.profileimage{
+    margin-top: 20px;
+}
+
